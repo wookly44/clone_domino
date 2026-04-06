@@ -2,7 +2,7 @@
 
 > JavaScript 기반 UI 인터랙션 구현 중심의 도미노피자 웹사이트 클론 프로젝트
 
-<img width="1266" height="891" alt="domino" src="https://github.com/user-attachments/assets/f56fae30-84ed-48d6-8509-cce7c4f03c2c" />
+<img width="1313" height="888" alt="image" src="https://github.com/user-attachments/assets/3c986ac2-5ad1-4468-9e8c-265e8b202d5a" />
 
 ## 🔗 링크
 - **배포 링크**: https://clone-domino.vercel.app/
