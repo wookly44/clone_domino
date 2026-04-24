@@ -5,8 +5,8 @@
 <img width="1313" height="888" alt="image" src="https://github.com/user-attachments/assets/3c986ac2-5ad1-4468-9e8c-265e8b202d5a" />
 
 ## 🔗 링크
-- **배포 링크**: https://clone-domino.vercel.app/
-- **참고한 원본 사이트**: https://web.dominos.co.kr/main
+- **배포 링크**: [바로가기](https://clone-domino.vercel.app/)
+- **참고한 원본 사이트**: [도미노피자](https://web.dominos.co.kr/main)
 
 ---
 
